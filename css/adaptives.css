@@ -33,10 +33,10 @@
     .nav-menu-mobile-footer > ul {
         display: none;
     }
-    .nav-menu-mobile. {
+    .nav-menu-mobile {
         padding-top: 10px;
     }
-    .nav-menu-mobile. > .nav-menu {
+    .nav-menu-mobile > .nav-menu {
         gap: 0;
     }
     /* footer */
